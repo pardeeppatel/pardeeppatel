@@ -19,7 +19,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://youtube.com/@PardeePPatel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=The+Syntax+Nomad+%E2%80%A2+Coding+From+Anywhere;Founder+of+ToolNPlay+%26+GetProjects;Founder+of+CodeBodh+%26+StudyWarehouse;50%25+Software+Architect+%E2%80%A2+50%25+Nomad+Traveler;Building+Native+macOS+%26+Desktop+Utilities;Watch+My+Nomad+Vlogs+on+YouTube+%40PardeePPatel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=The+Syntax+Nomad+%E2%80%A2+Coding+From+Anywhere;Creator+of+UI%2FUX+Ultra+Design+Intelligence;Founder+of+ToolNPlay+%26+GetProjects;Founder+of+CodeBodh+%26+StudyWarehouse;50%25+Software+Architect+%E2%80%A2+50%25+Nomad+Traveler;Building+Native+macOS+%26+Desktop+Utilities;Watch+My+Nomad+Vlogs+on+YouTube+%40PardeePPatel" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -29,6 +29,24 @@
 ---
 
 </div>
+
+## 🎨 Featured Open-Source: [UI/UX Ultra](https://github.com/pardeeppatel/ui-ux-ultra)
+
+<div align="center">
+
+[![UI/UX Ultra](https://img.shields.io/badge/UI%2FUX%20Ultra-Design%20Intelligence%20Engine-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/pardeeppatel/ui-ux-ultra)
+[![Themes](https://img.shields.io/badge/200%20Themes-20%20Industries-EC4899?style=for-the-badge)](https://github.com/pardeeppatel/ui-ux-ultra)
+[![Platforms](https://img.shields.io/badge/Tailwind%20%7C%20Flutter%20%7C%20SwiftUI-06B6D4?style=for-the-badge)](https://github.com/pardeeppatel/ui-ux-ultra)
+[![Agents](https://img.shields.io/badge/AI%20Agents-Antigravity%20%7C%20Cursor-F59E0B?style=for-the-badge)](https://github.com/pardeeppatel/ui-ux-ultra)
+
+<p align="center">
+  <b>The ultimate UI/UX design intelligence engine & multi-platform theme compiler for AI coding agents.</b><br />
+  Features 200 dual-theme palettes across 20 industries, conversion blueprints, UX law enforcement, and instant design token generation for Tailwind v4, Shadcn UI, Flutter, SwiftUI, and Web.
+</p>
+
+</div>
+
+---
 
 ## 🌐 The 4 Founded Platforms
 
