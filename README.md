@@ -1,49 +1,118 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23&height=200&section=header&text=Pardeep%20Patel&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Lead%20Software%20Engineer%20•%20Founder%20@ToolNPlay&descFontSize=20&descAlignY=62" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23&height=220&section=header&text=Pardeep%20Patel&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=50%25%20Software%20Architect%20•%2050%25%20Nomad%20Traveler&descFontSize=20&descAlignY=60" width="100%" alt="Pardeep Patel Header" />
 
-<!-- Social Badges & Visitor Counter -->
+<!-- Social Badges, YouTube & Visitor Counter -->
 <p align="center">
-  <a href="https://pardeeppatel.com"><img src="https://img.shields.io/badge/Portfolio-pardeeppatel.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://twitter.com/iampardeeppatel"><img src="https://img.shields.io/badge/Twitter-@iampardeeppatel-0ea5e9?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pardeeppatel&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+  <a href="https://youtube.com/@PardeePPatel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Syntax%20Nomad-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Syntax Nomad" />
+  </a>
+  <a href="https://twitter.com/iampardeeppatel" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@iampardeeppatel-0ea5e9?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://pardeeppatel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-pardeeppatel.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pardeeppatel&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Views" />
 </p>
 
-<!-- Animated Typing Text -->
-<a href="https://toolnplay.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&width=435&lines=Founder+at+ToolNPlay;Building+Native+macOS+%26+Desktop+Apps;Crafting+Privacy-First+Software;Open+Source+Advocate" alt="Typing SVG" />
+<!-- Animated Typing SVG -->
+<a href="https://youtube.com/@PardeePPatel">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=The+Syntax+Nomad+%E2%80%A2+Coding+From+Anywhere;Founder+%40ToolNPlay+%E2%80%A2+GetProjects+%E2%80%A2+CodeBodh+%E2%80%A2+StudyWarehouse;50%25+Developer+%E2%80%A2+50%25+World+Explorer;Building+High-Performance+macOS+%26+Desktop+Tools;Watch+my+vlogs+on+YouTube+%40PardeePPatel" alt="Typing SVG" />
 </a>
+
+<p align="center">
+  <i>"Writing clean syntax, architecting native tools, and exploring every corner of the planet."</i>
+</p>
+
+---
+
+</div>
+
+## 🌐 The 4 Founded Platforms
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://toolnplay.com">ToolNPlay.com</a></h3>
+      <p>High-performance native macOS utilities, privacy-first offline desktop suites, and modular web components.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Founder%20%26%20Architect-4F46E5?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Flagship-MacLight%20%7C%20PrivaPDF-blue?style=flat-square" alt="Tools" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 <a href="https://getprojects.org">GetProjects.org</a></h3>
+      <p>A curated hub of real-world software architectures, project blueprints, and production-ready source ideas for builders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Founder-10B981?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Focus-Open--Source%20Projects-emerald?style=flat-square" alt="Focus" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://codebodh.com">CodeBodh.com</a></h3>
+      <p>Deep-dive engineering insights, programming wisdom, and software architecture tutorials from first principles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Founder-F59E0B?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Domain-Tech%20Knowledge-amber?style=flat-square" alt="Focus" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://studywarehouse.com">StudyWarehouse.com</a></h3>
+      <p>Centralized educational resource base and academic knowledge library helping students and developers level up.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Founder-9333EA?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Domain-Education%20Tech-purple?style=flat-square" alt="Focus" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Flagship Open-Source Apps at [@ToolNPlay](https://github.com/ToolNPlay)
+
+- ⚡ **[MacLight](https://github.com/ToolNPlay/maclight)** — Lightweight native macOS system cleaner & duplicate finder in Swift.
+- 🔒 **[PrivaPDF Studio](https://github.com/ToolNPlay/PrivaPDF-Releases)** — 100% offline desktop PDF studio with zero telemetry.
+- 🎶 **[ToolNAmp](https://github.com/ToolNPlay/ToolNAmp)** — High-fidelity retro desktop audio player with modern 32-bit DSP in C.
+- 📝 **[TnP Editor](https://github.com/ToolNPlay/tnp-editor)** — Gutenberg-style modular block editor built as a native Web Component.
+
+---
+
+## 🎥 YouTube & Travel: The Syntax Nomad
+
+<div align="center">
+
+[![YouTube - Syntax Nomad](https://img.shields.io/badge/Watch%20on%20YouTube-@PardeePPatel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@PardeePPatel)
+
+<p>
+  When I'm not writing code, I'm documenting remote nomad life, software development on the road, and travel journeys on my YouTube channel <b>@PardeePPatel (Syntax Nomad)</b>.
+</p>
 
 </div>
 
 ---
 
-### 🚀 Building at [@ToolNPlay](https://github.com/ToolNPlay)
+## 💻 Tech Stack & Engineering Core
 
-I design and architect fast, lightweight desktop tools and web software with zero bloat and zero telemetry:
+<div align="center">
 
-- ⚡ **[MacLight](https://github.com/ToolNPlay/maclight)** — Modern macOS System Cleaner & Duplicate Finder.
-- 🔒 **[PrivaPDF Studio](https://github.com/ToolNPlay/PrivaPDF-Releases)** — 100% Offline, private desktop PDF studio.
-- 🎶 **[ToolNAmp](https://github.com/ToolNPlay/ToolNAmp)** — High-fidelity retro desktop music player.
-- 📝 **[TnP Editor](https://github.com/ToolNPlay/tnp-editor)** — Gutenberg-style modular block editor Web Component.
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 
----
-
-### 💻 Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Activity & Streaks
+## 📊 GitHub Contribution Streaks
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardeeppatel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -52,4 +121,4 @@ I design and architect fast, lightweight desktop tools and web software with zer
 <br />
 
 <!-- Footer Curve -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,14,2&height=90&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,14,2&height=100&section=footer" width="100%" alt="Footer" />
