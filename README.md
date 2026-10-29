@@ -19,7 +19,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://youtube.com/@PardeePPatel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=The+Syntax+Nomad+%E2%80%A2+Coding+From+Anywhere;Founder+%40ToolNPlay+%E2%80%A2+GetProjects+%E2%80%A2+CodeBodh+%E2%80%A2+StudyWarehouse;50%25+Developer+%E2%80%A2+50%25+World+Explorer;Building+High-Performance+macOS+%26+Desktop+Tools;Watch+my+vlogs+on+YouTube+%40PardeePPatel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=The+Syntax+Nomad+%E2%80%A2+Coding+From+Anywhere;Founder+of+ToolNPlay+%26+GetProjects;Founder+of+CodeBodh+%26+StudyWarehouse;50%25+Software+Architect+%E2%80%A2+50%25+Nomad+Traveler;Building+Native+macOS+%26+Desktop+Utilities;Watch+My+Nomad+Vlogs+on+YouTube+%40PardeePPatel" alt="Typing SVG" />
 </a>
 
 <p align="center">
